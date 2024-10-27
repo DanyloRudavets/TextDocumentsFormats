@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transport>
-		<bus> brand='f' colour='f'</bus>
-		<car> brand='d' colour='d'</car>
-		<train> brand='s' colour='s'</train>
-		<plain> brand='a' colour='a'</plain>
+		<bus price='2£' convenience='avarage'>
+			<colour>blue</colour>
+			<size>big</size>
+			<speed>avarage</speed>
+			<time>every 10 min</time>
+		</bus>
+		<car price='30000' convenience='maximal'>
+			<colour>navy</colour>
+			<size>avarage</size>
+			<speed>high</speed>
+			<time>always</time>
+		</car>
+		<train price='100$' convenience='above avarage'>
+			<colour>blue</colour>
+			<size>big</size>
+			<speed>high</speed>
+			<time>once a week</time>
+
+		</train>
+		<plane price='140£' convenience='maximal'>
+			<colour>white</colour>
+			<size>Big</size>
+			<speed>high</speed>
+			<time>once a week</time>
+		</plane>
 </transport>

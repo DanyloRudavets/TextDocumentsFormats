@@ -1,3 +1,7 @@
-make	Model	Year	Price
-lambo	huracan	2024	3000000
-toyota	civic	2020	"22,500"
+Make	Model	Year	Price(usd)
+toyota	corolla	2021	"20,000"
+honda	civic	2020	"22,500"
+ford	focus	2019	"18,000"
+tesla	model 3	2022	"35,000"
+volkswagen	golf	2021	"25,000"
+toyota	prius	2008	"7,000"

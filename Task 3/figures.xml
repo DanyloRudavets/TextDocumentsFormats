@@ -23,4 +23,15 @@
             <perimeter>4 * side</perimeter>
         </formulas>
     </figure>
+    <figure>
+        <name> cube</name>
+        <type> 3D</type>
+        <properties>
+            <property>sides Length</property>
+        </properties>
+        <formulas>
+            <area>6a**2</area>
+            <volume>a**3</volume>
+        </formulas>
+    </figure>
 </geometricFigures>

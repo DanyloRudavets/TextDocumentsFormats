@@ -1,0 +1,9 @@
+{
+    "price": 19.20,
+    "from": "London",
+    "to": "Leicester",
+    "expairy date": [201222],
+    "operator":"UKrailways",
+    "type": "oneway"
+
+}
